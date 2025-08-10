@@ -10,7 +10,7 @@
 
 ![Fishstrap Showcase](https://www.fishstrap.app/img/Showcase.webp)
 
-Fishstrap is a Bloxstrap fork aiming to enhance some of the features.
+sudo-Fishstrap is a Fishstrap fork aiming to enhance some of the features.
 
 Found any bugs? [Submit an issue](https://github.com/returnrqt/fishstrap/issues/new/choose) or create a bug report in our [Discord server](https://discord.gg/SRs5zb9BJd).
 
@@ -66,3 +66,5 @@ Found any bugs? [Submit an issue](https://github.com/returnrqt/fishstrap/issues/
 [repo-latest]:   https://github.com/returnrqt/fishstrap/releases/latest
 
 [discord-invite]:  https://discord.gg/SRs5zb9BJd
+
+We currently have problem with licensing agreement..
