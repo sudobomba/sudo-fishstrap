@@ -68,4 +68,8 @@ Found any bugs? [Submit an issue](https://github.com/returnrqt/fishstrap/issues/
 [discord-invite]:  https://discord.gg/SRs5zb9BJd
 
 We currently have problem with licensing agreement..
+
 Yea, We need to port this into linux, Whatever..
+
+## ATTENTION
+**sudobomba** has began to switching some code/files into POSIX C/C++, Sober and VinegarHQ WILL be Implemented soon....
